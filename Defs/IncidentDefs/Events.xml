@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <IncidentDef>
+    <defName>AmberRaid</defName>
+    <label>amber raid</label>
+    <targetTags> <li>Map_PlayerHome</li> </targetTags>
+    <workerClass>IncidentWorker_RaidEnemy</workerClass>
+    <baseChance>0</baseChance>
+    <category>ThreatBig</category>
+    <pointsScaleable>true</pointsScaleable>
+    <tale>Amber Raid</tale>
+  </IncidentDef>
+</Defs>
